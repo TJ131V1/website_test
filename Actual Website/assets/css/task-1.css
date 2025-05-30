@@ -1,0 +1,28 @@
+#x_start{
+    position:absolute;
+    left:90%;
+    top:45%;
+}
+#x_end{
+    position:absolute;
+    left:90%;
+    top:55%;
+}
+#submit{
+    position:absolute;
+    left:90%;
+    top:65%;
+
+}
+#graph{
+    position:absolute;
+    top:100px;
+    max-width:70%;
+    left : 5%;
+    max-height: 900%;
+}
+#input_choice{
+    position: absolute;
+    left:50%;
+    top:95%;
+}
